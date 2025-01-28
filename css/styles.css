@@ -463,7 +463,7 @@ text-transform:uppercase;
 flex-grow:1; 
 overflow:hidden;
 position:relative;
-height:350px;
+height: 30vh;
 }
 
 .imagen-ingre{
@@ -804,6 +804,10 @@ height:350px;
 }       
    
 @media screen and (max-width:670px) {
+
+    .ingre{
+        height: 15vh;
+        }
 
     .menu-principal {
         position:fixed;
