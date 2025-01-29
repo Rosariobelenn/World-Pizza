@@ -255,7 +255,7 @@ text-transform:uppercase;
 
 #servicios{
 
-    height: 70vh;
+    height: 100%;
     background: #FFF;
     padding: 40px;
 
@@ -509,8 +509,8 @@ height: 30vh;
 /*¨SECCION CONTACTO*/
 
 #contacto{
-    height:75vh;
-    padding:60px;
+    height:100%;
+    padding: 60px 60px 100px 60px;
     position:relative;
 }
 
